@@ -1,3 +1,0 @@
-ID :1 
-Name :KUNAL 
-Salary :10000
